@@ -1,4 +1,4 @@
-# Film Yorumları Üzerinden Duygu Analizi
+# Film Yorumları Duygu Analizi
 
 ## Proje Tanımı
 
