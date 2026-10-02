@@ -10,7 +10,7 @@ Proje Python ile yazılmıştır: yorumlar temizlenir, kelime torbası vektörle
 
 ### Kullanılan Veri Kümesi
 
-- **yorumlar_5000.csv**: 5.000 etiketli Türkçe film yorumu (2.542 positive, 2.457 negative). `ProjeSon.py` modeli bu dosyayla eğitir ve test eder.
+- **yorumlar_5000.csv**: 5.000 etiketli Türkçe film yorumu (2.543 positive, 2.457 negative). `ProjeSon.py` modeli bu dosyayla eğitir ve test eder.
 - **proje_csv_duzgun_son.csv**: Bu yorumlardan 2.768 satırlık bir alt küme. Kodda kullanılmıyor.
 
 ### Veri Ön İşleme
